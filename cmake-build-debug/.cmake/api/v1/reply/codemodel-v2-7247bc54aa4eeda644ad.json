@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Mochila",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Mochila::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mochila-Debug-d2c3ace4c714043096e7.json",
+					"name" : "Mochila",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/Semana-7/Actividad-Grupal-2/Ejercicio-2/Mochila/cmake-build-debug",
+		"source" : "/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/Semana-7/Actividad-Grupal-2/Ejercicio-2/Mochila"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
