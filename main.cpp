@@ -149,6 +149,7 @@ int main() {
                             break;
                         case '6': //vuelvo al menu principal
                             condicion2=false;
+                            break;
                         default: //caso default en el que el usurio no ponga una de las opciones validas.
                             cout << "Por favor elija una opción valida." << endl;
                     }
@@ -264,6 +265,7 @@ int main() {
                             break;
                         case '6': //vuelvo al menu principal
                             condicion3=false;
+                            break;
                         default: //no me pasaron uno de los numero que pedi
                             cout << "Por favor elija una opción valida." << endl;
                     }
